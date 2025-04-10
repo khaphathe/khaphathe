@@ -1,1 +1,1 @@
-Fourth-year Computer Science student at TUT with a strong foundation in software development, cybersecurity, and database management. Proficient in Java, JavaScript, HTML, CSS, and SQL. Passionate about problem-solving, system design, and continuous learning.
+Fourth-year Computer Science student at TUT with a strong foundation in software development, and database management. Proficient in Java, JavaScript, HTML, CSS, My SQL and SQL. Passionate about problem-solving, system design, and continuous learning.
