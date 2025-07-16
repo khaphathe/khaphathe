@@ -11,7 +11,7 @@ Skills & Tools
   Database: MySQL
   Tools: Git, GitHub, Visual Studio Code,Netbeans,Atom
   UI:GUI Frameworks (Swing)
-  Others: Microsoft Office (Word, Excel, PowerPoint), Confidentiality, Teamwork,Technical Support
+  Microsoft Office : (Word, Excel, PowerPoint), Confidentiality, Teamwork,Technical Support
 
 What I'm Working On:
 
