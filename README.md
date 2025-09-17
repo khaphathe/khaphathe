@@ -1,39 +1,40 @@
-👋 Hi, I'm Khaphathe Mpho
-Final-year Computer Science student at Tshwane University of Technology (TUT) 📍 Based in Pretoria, Gauteng 💻 Passionate about software development, web technologies, and solving real-world problems
+Hi, I'm Khaphathe Mpho
+Computer Science graduate from Tshwane University of Technology (TUT),Based in Pretoria, Gauteng,Passionate about software development, web technologies, and solving real-world problems
 
-🛠️ Skills
-Programming: Java, JavaScript, Python, HTML/CSS
+As of July 2025, I’ve completed all my theoretical modules and I'm ready to dive into the IT industry.
 
-Database: MySQL
+Skills Programming: Java, JavaScript, Python, HTML/CSS 
 
-Tools: Git, GitHub, Visual Studio, NetBeans, Atom, Postman
+Database: MySQL 
 
-UI: GUI Frameworks (Swing)
+Tools: Git, GitHub, Visual Studio,Netbeans,Atom, and postman 
 
-Microsoft Office: Word, Excel, PowerPoint
+UI:GUI Frameworks (Swing) 
 
-Soft Skills: Confidentiality, Teamwork, Technical Support
+Microsoft Office : (Word, Excel, PowerPoint), Confidentiality, Teamwork, and Technical Support 
 
-🚀 What I'm Working On
-Building academic and personal projects using Java and web technologies
+What I'm Working On:
 
-Learning React.js, Node.js, and TypeScript
+Building academic and personal projects using Java and Web technologies 
 
-Sharpening my problem-solving and debugging skills
+Learning React.js,Node.js and TypeScript 
 
-📬 Let's Connect
-Email: khaphathempho@gmail.com
+Enhancing my problem-solving and debugging skills
 
-LinkedIn: linkedin.com/in/mpho-khaphathe-9a3b412b1
+Let's Connect:
 
-Portfolio: my-personal-website-xtnd.onrender.com
+Email: khaphathempho@gmail.com 
 
-WhatsApp/Call: 082 705 6724
+LinkedIn: https://www.linkedin.com/in/mpho-khaphathe-9a3b412b1/ 
 
-🎯 Goals
-Gain practical experience in a real-world software development environment
+Portfolio: https://my-personal-website-xtnd.onrender.com/ 
 
-Continue growing as a developer and collaborative team player
+whatsapp/Call : 0827056724 
 
-✅ Acknowledgement
-Thanks for visiting—feel free to explore my repositories!
+Goals:
+
+Gain practical experience in a real-world software development environment Continue growing as a developer and team player 
+
+Acknowledgement
+
+Thanks for visiting and Feel free to explore my repositories.
