@@ -1,22 +1,21 @@
-👋 Hi, I'm Khaphathe Mpho
+Hi, I'm Khaphathe Mpho
 
 Final-year Computer Science student at Tshwane University of Technology (TUT) 
 Based in Pretoria, Gauteng  
 Passionate about software development,web technologies, and real-world problem solving  
-Currently seeking a Work Integrated Learning (WIL) opportunity to fulfill graduation requirements
 
-Skills & Tools
+Skills
 
  Programming: Java, JavaScript, Python, HTML/CSS
   Database: MySQL
-  Tools: Git, GitHub, Visual Studio Code,Netbeans,Atom
+  Tools: Git, GitHub, Visual Studio,Netbeans,Atom, and postman
   UI:GUI Frameworks (Swing)
   Microsoft Office : (Word, Excel, PowerPoint), Confidentiality, Teamwork, and Technical Support
 
 What I'm Working On:
 
   Building academic and personal projects using Java and Web technologies
-  Learning React.js and TypeScript
+  Learning React.js,Node.js and TypeScript
   Enhancing my problem-solving and debugging skills
 
 Let's Connect
@@ -28,9 +27,10 @@ Let's Connect
 
 Goals
 
-Secure a WIL placement in a forward-thinking, innovative company
 Gain practical experience in a real-world software development environment
 Continue growing as a developer and team player
+
+Acknowledgement
 
 Thanks for visiting and Feel free to explore my repositories.
 
